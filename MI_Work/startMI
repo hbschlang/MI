@@ -1,0 +1,4 @@
+#!/bin/sh
+
+java -cp ./classes -Djava.library.path=. de.tum.in.mi.MI 
+

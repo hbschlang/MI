@@ -1,0 +1,1 @@
+JRE\bin\java.exe -d32 -cp ./classes de.tum.in.mi.MI

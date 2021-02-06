@@ -1,0 +1,68 @@
+1 1 0 Eingabezeile zu lang
+1 2 0 Ersetzungstext nicht korrekt
+1 3 0 Importidentifier enthaelt privilegierten Namen
+1 4 0 nur einstufige Expansion erlaubt
+1 5 0 ' erwartet
+1 6 0 String zu lang
+1 7 0 Zahl zu gross
+1 8 0 illegal symbol
+1 9 0 Buchstabe erwartet
+1 10 0 Binaerzahl erwartet
+1 11 0 Hexadezimalzahl erwartet
+1 12 0 Exponent erwartet
+1 13 6 Name '' ignoriert
+1 14 0 Rest der Zeile ignoriert
+1 15 7 Marke '' bereits importiert
+1 16 7 Marke '' mehrfach definiert
+1 17 0 falsche Typangabe
+1 18 0 Datenelement erwartet
+1 19 0 Direkter Operand enthaelt Marke
+1 20 0 Direkter Operand enthaelt Relativadresse
+1 21 0 Registerangabe erwartet
+1 22 0 Relativadresse erwartet
+1 23 0 Kelleradressierung ueber PC
+1 24 0 Adresse liegt ausserhalb des Adressbereichs
+1 25 0 Zahlbereich ueberschritten
+1 26 0 Zahl fuer den angegebenen Typ zu gross
+1 27 0 Marken unzulaessig
+1 28 0 Makrodefinition erwartet
+1 29 0 Name erwartet
+1 30 0 Typangabe erwartet
+1 31 0 Operand erwartet
+1 32 0 Makrodefinition zu spaet
+1 33 16 Namenskonflikt '' (Marke = Makro)
+1 34 0 Zahl erwartet
+1 35 7 Marke '' definiert und importiert
+1 36 25 Segmentangabe der Marke '' fehlerhaft
+1 37 0 Makro - Ersetzungstext erwartet
+1 38 7 Marke '' nicht eindeutig verwendet
+1 39 0 Adressbereich durch Adresszaehler ueberschritten
+1 40 0 Import von Makros unzulaessig
+1 41 0 Export von Makros unzulaessig
+1 42 6 Name '' unbekannt
+1 43 0 Typangabe unzulaessig
+1 44 19 Importierte Marke '' wurde exportiert
+1 45 7 Makro '' bereits definiert
+1 46 6 Name '' mehrdeutig dr. Import ohne Segmentangabe
+1 47 7 Marke '' importiert, aber nicht exportiert
+1 48 17 Export der Marke '' nicht eindeutig
+1 49 6 Name '' nicht eindeutig
+1 50 13 Segmentname '' nicht eindeutig
+2 1 0 END erwartet
+2 2 0 ' eingefuegt
+2 3 0 ':' eingefuegt
+2 4 0 ')' eingefuegt
+2 5 0 '*' eingefuegt
+2 6 0 Multiplikator '1' eingefuegt
+2 7 0 ',' eingefuegt
+2 8 0 minimalen Multiplikator '1' ersetzt
+2 9 0 ';' eingefuegt
+2 10 0 '/' eingefuegt
+2 11 0 erste Anweisung SEG eingefuegt
+2 12 0 '=' eingefuegt
+3 1 0 Eingabezeile wurde nicht vollstaendig ausgegeben
+3 2 0 Adressbereich durch Adresszaehler ueberschritten
+3 3 0 Doppelter Import wegen IMPORT ALL
+3 4 0 Doppelter Export wegen EXPORT ALL
+3 5 7 Marke '' doppelt importiert
+3 6 7 Marke '' doppelt exportiert

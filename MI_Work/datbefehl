@@ -1,0 +1,60 @@
+ADD      BF 23 2    (* Version 8.0   29.11.88 *)
+ANDNOT   B3 23 1
+CALL     F2 1 0
+CHMK     FD 1 0
+CLEAR    99 1 2
+CMP      92 2 2
+CONV     AC 2 0     (* Diese Position darf nicht veraendert werden !  *)
+DIV      DD 23 2
+EXT      F7 4 0
+EXTS     F6 4 0
+FINDC    FA 4 0
+FINDS    F9 4 0
+HALT     00 0 0
+INS      F8 4 0
+JBCCI    FC 3 0
+JBSSI    FB 3 0
+JC       EF 1 0
+JEQ      E9 1 0
+JGE      EC 1 0
+JGT      EB 1 0
+JLE      EE 1 0
+JLT      ED 1 0
+JNC      F0 1 0
+JNE      EA 1 0
+JNV      98 1 0
+JUMP     F1 1 0
+JV       97 1 0
+LBPSW    FF 1 0     (* siehe erster_lauf.p im Assembler! *)
+LIPL     0E 1 0
+LMAPEN   0F 1 0
+LPCB     03 0 0
+LPCBADR  0D 1 0
+LRKMAP   0F 1 0     (* Siehe LMAPEN *)
+LSB      0A 1 0
+LSCBADR  0C 1 0
+LSL      0B 1 0
+MOVE     9E 2 2
+MOVEA    AB 2 0
+MOVEC    A8 2 1
+MOVEN    A3 2 2
+MULT     D3 23 2
+OR       AD 23 1
+POPR     F5 0 0
+PUSHR    F4 0 0
+REI      01 0 0
+RET      F3 0 0
+RKALARM  91 1 0
+ROT      E8 3 0
+SBPSW    FE 1 0     (* siehe erster_lauf.p im Assembler! *)
+SH       E7 3 0
+SPIPL    08 1 0
+SPMAPEN  09 1 0
+SPPCB    02 0 0
+SPPCBADR 07 1 0
+SPRKMAP  09 1 0     (* siehe SPMAPEN *)
+SPSB     04 1 0
+SPSCBADR 06 1 0
+SPSL     05 1 0
+SUB      C9 23 2
+XOR      B9 23 1
